@@ -1,6 +1,6 @@
 # Ktor-Koin-Example  &nbsp;&nbsp;&nbsp;&nbsp; [English](https://github.com/BongleXD/ktor-koin-example/tree/main)  |  简体中文 (当前页面)
 
-这是一个示例项目，展示了如何使用 [Ktor](^1^)、[Google KSP] 和 [Koin](^2^) 来用 Kotlin 语言创建一个 Web 应用。
+这是一个示例项目，展示了如何使用 [Ktor](https://ktor.io), [Google KSP](https://github.com/google/ksp), 和 [Koin](https://insert-koin.io/docs/reference/koin-ktor/ktor/) 来用 Kotlin 语言创建一个 Web 应用。
 
 ## 什么是 Ktor？
 

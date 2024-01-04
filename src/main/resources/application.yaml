@@ -1,0 +1,15 @@
+ktor:
+    application:
+        modules:
+            - me.bongle.ApplicationKt.module
+    deployment:
+        port: 8080
+jwt:
+  domain: "wx800873061c8aedba"
+  audience: "example"
+  realm: "example app"
+  secret: "e5db22e7-dc6a-4ad3-80d0-aed9815d21a1"
+database:
+  url: "jdbc:mysql://localhost:3306/dev?serverTimezone=Asia/Shanghai&characterEncoding=UTF-8&nullCatalogMeansCurrent=true"
+  user: root
+  password: 123456

@@ -64,4 +64,4 @@ cd ktor-koin-example
 
 ## 许可
 
-这个项目使用 Apache-2.0 许可。详情请看 [LICENSE] 文件。
+这个项目使用 Apache-2.0 许可。详情请看 [LICENSE](LICENSE) 文件。
